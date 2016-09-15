@@ -1,0 +1,16 @@
+* WebRes
+  - [[http://i.linuxtoy.org/docs/guide/]]
+  - [[https://linuxtoy.org][LinuxToy]]
+  - [[http://www.linuxjournal.com][LinuxJournal]]
+* Tools
+   - [[http://www.vim.org][Vim]]
+     1. [[http://vimawesome.com][VimAwesome]]
+   - [[http://www.gnuemacs.org][Emacs]]
+     1. [[http://www.gnu.org/software/emacs/tour/index.html][Tour of Emacs]]
+     2. [[http://orgmode.org][Orgmode]]
+     3. [[https://github.com/auto-complete][Auto-Complete]]
+
+   - [[http://www.perl.org][Perl]]
+     1. [[http://beyondgrep.com][Ack]]
+     2. [[http://www.template-toolkit.org][Template Toolkit]]
+     3. 
