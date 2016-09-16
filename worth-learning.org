@@ -4,14 +4,15 @@
   - [[http://www.linuxjournal.com][LinuxJournal]]
 * Tools
    - [[http://www.vim.org][Vim]]
-     1. [[http://vimawesome.com][VimAwesome]]
+     1. [[http://vimawesome.com][Vim Awesome]]
+     2. [[http://vim-scripts.org/vim/scripts.html][Vim Scripts]]
    - [[http://www.gnuemacs.org][Emacs]]
      1. [[http://www.gnu.org/software/emacs/tour/index.html][Tour of Emacs]]
-     2. [[http://orgmode.org][Orgmode]]
+     2. [[http://orgmode.org][Org mode]]
      3. [[https://github.com/auto-complete][Auto-Complete]]
    - [[http://www.perl.org][Perl]]
      1. [[http://beyondgrep.com][Ack]]
      2. [[http://www.template-toolkit.org][Template Toolkit]]
      3. 
    - Latex
-     1. [[http://www.tug.org.in/tutorials.html][TUGIndia]]
+     1. [[http://www.tug.org.in/tutorials.html][IndianTUG]]
