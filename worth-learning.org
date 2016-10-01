@@ -1,18 +1,19 @@
 * WebRes
-  - [[http://i.linuxtoy.org/docs/guide/]]
-  - [[https://linuxtoy.org][LinuxToy]]
-  - [[http://www.linuxjournal.com][LinuxJournal]]
+  - [[http://i.linuxtoy.org/docs/guide/][开源世界旅行手册]]
+  - [[http://docs.huihoo.com/homepage/shredderyin][Yin Wang's Homepage]]
+  - [[https://linuxtoy.org][LinuxTOY]]
+  - [[http://www.linuxjournal.com][Linux Journal - The Original Magazine of the Linux Community]]
 * Tools
    - [[http://www.vim.org][Vim]]
      1. [[http://vimawesome.com][Vim Awesome]]
      2. [[http://vim-scripts.org/vim/scripts.html][Vim Scripts]]
    - [[http://www.gnuemacs.org][Emacs]]
-     1. [[http://www.gnu.org/software/emacs/tour/index.html][Tour of Emacs]]
-     2. [[http://orgmode.org][Org mode]]
-     3. [[https://github.com/auto-complete][Auto-Complete]]
+     1. [[http://www.gnu.org/software/emacs/tour/index.html][A guided tour of Emacs]]
+     2. [[http://orgmode.org][Org mode for Emacs - Your Life in Plain Text]]
+     3. [[https://github.com/auto-complete][Emacs Auto-Complete]]
    - [[http://www.perl.org][Perl]]
-     1. [[http://beyondgrep.com][Ack]]
-     2. [[http://www.template-toolkit.org][Template Toolkit]]
+     1. [[http://beyondgrep.com][Beyond grep: ack 2.14, a source code search tool for programmers]]
+     2. [[http://www.template-toolkit.org][Template Toolkit Home Page]]
      3. 
    - Latex
-     1. [[http://www.tug.org.in/tutorials.html][IndianTUG]]
+     1. [[http://www.tug.org.in/tutorials.html][Online tutorials for Latex]]
